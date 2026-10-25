@@ -13,6 +13,6 @@ All 100 images from photos.zip appear in gallery.html in numeric order. Each has
 ## Honeymoon and gifts
 The original design, destination copy, and 10 registry cards are retained, with Australia + Fiji Honeymoon Fund first. Honeymoon timing is limited to June–July 2027. No precise travel dates or booking details are included.
 
-IMPORTANT: The supplied site's Venmo handle, QR code, and Zelle email remain placeholders. Replace @YOUR-VENMO and your-email@example.com in index.html, and the QR placeholder with your actual QR image, before accepting gifts. Copy buttons also need the matching data-copy values updated. This site does not process payments or track contributions.
+Venmo gifts can be sent to @Brianna-Burrows. Zelle gifts can be sent to (206) 369-0433. The supplied original QR images are included without visual modification, with full-size image links and copy buttons. Each payment option has step-by-step instructions. This site does not process payments or track contributions.
 
 Google Fonts is optional; local serif and sans-serif fallback fonts render if unavailable.
